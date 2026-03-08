@@ -6,7 +6,6 @@ Estimation for Architects
 By Sachin Dixit
 
 
-![](assets/images/slide-1-img.jpg)
 
 
 ## Slide 2
